@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/CaldwellYSR/JSTextAdventure#readme",
   "devDependencies": {
+    "assert": "^1.4.1",
     "mocha": "^3.1.2"
   }
 }
